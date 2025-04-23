@@ -1,0 +1,14 @@
+.top_text,
+.authors,
+.country {
+    color: #bfbfbf;
+}
+
+.reach {
+    color: white;
+}
+
+.main__button {
+    background-color: transparent;
+    color: white;
+}

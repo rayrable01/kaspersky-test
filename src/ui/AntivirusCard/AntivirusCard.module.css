@@ -1,0 +1,18 @@
+.text {
+    color: #bfbfbf;
+}
+
+.main_text {
+    color: white;
+    font-size: 15px;
+    text-align: start;
+}
+
+.main__button {
+    display: flex;
+    align-items: center;
+    color: #0000f5;
+    background-color: #39373d;
+    font-weight: 600;
+    border: none;
+}
