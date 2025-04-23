@@ -8,7 +8,7 @@
 Убедитесь, что у вас установлен Node.js (рекомендуемая версия 18+)
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/rayrable01/kaspersky-test.git
 cd kaspersky-test (or your folder-name)
 npm install
 npm run dev
